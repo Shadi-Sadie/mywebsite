@@ -3,50 +3,52 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Public Policy
+    institution: University of Maryland, Baltimore County
+    year: 2024
+  - course: MSc in Economics and Applied Econmetrics
+    institution: University of Delaware
+    year: 2019
+  - course: BSc in Economics
+    institution: Ferdowsi University of Mashhad
+    year: 2016
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Causal Inference
+- Econometrics and Machine Learning
+- Health Economics
+- Health Policy
+
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Maryland, Baltimore County
+  url: https://www.umbc.edu/
+role: Ph.D. Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: shadi.sedi@gmail.com
 - display:
     header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ShadiSadie
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: df
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Shadi-Sadie/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/shadiseyedi/
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Shadi Seyedi
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shadi Seyedi received her B.S. degree in Economics from the Ferdowsi University of Mashhad, Iran in 2017,  and her M.S Degree  in Applied Economics and Econometrics from the University of Delaware. She is currently a Ph.D Student in Public Policy in Evaluation and Analytical Methods track, and working as graduate assistant with [Dr.Bennett](https://publicpolicy.umbc.edu/pamela-r-bennett/).  
+Her primary research interest lies at intersection of Econometrics, Statistics and Machine learning; Her work primarily focuses in applying methodology from these fields for drawing causal inferences in observational studies. Primarily in areas of public health, health care access, and health equity.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
